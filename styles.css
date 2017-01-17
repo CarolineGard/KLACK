@@ -11,6 +11,10 @@ html, body {
     margin: auto;
 }
 
+#logo {
+	margin-bottom: 2rem;
+}
+
 .page-first h1 {
 	font-size: 16rem;
   	margin: 0 auto;
@@ -24,7 +28,7 @@ html, body {
 
 .page-first h4 {
 	font-size: 1.6rem;
-	width: 70rem;
+	width: 60rem;
 	margin: 0 auto;
 }
 
