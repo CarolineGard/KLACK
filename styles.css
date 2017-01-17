@@ -6,6 +6,19 @@ html, body {
 	text-align: center;
 }
 
+a {
+	color: #000;
+}
+
+.navbar {
+	background-color: #fff;
+}
+
+.page-content {
+	width: 80%;
+	margin: 0 auto;  
+}
+
 .page-first {	
     height: 100%;
     margin: auto;
@@ -37,6 +50,26 @@ html, body {
 	margin-top: 20rem;
 }
 
+.div-about {
+	margin-top: 6rem;
+}
+
+.img-circle {
+	height: 26rem;
+	width: 28rem;
+    border-radius: 50%;
+}
+
+.txt-aboutintro {
+	width: 50rem;
+	margin: 0 auto;
+	margin-top: 2rem; 
+}
+
+.txt-about {
+	width: 25rem;
+	margin: 0 auto;
+}
 
 /*
 .footer {
